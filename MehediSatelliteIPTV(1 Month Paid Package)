@@ -10,8 +10,8 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/204
 #EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Bangla",Channel I
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/643
 
-#EXTINF:-1 tvg-id="" tvg-name="Ekushey Tv" tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/ekushey-tv.jpg" group-title="Bangla",Ekushey Tv
-http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/113
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="ICC 2",Ekushey TV
+http://103.205.133.14/hls/ekushey.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RTv" tvg-logo="https://lh3.googleusercontent.com/RiRI3w6Tu0zfMOvIVHsV2keLlWvgs63EX4jqoDMZXB9Nu4Xv_116rvVjOOM7ZFT5pw" group-title="Bangla",RTv
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/145
@@ -37,8 +37,8 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/771
 #EXTINF:-1 tvg-id="" tvg-name="Masranga" tvg-logo="http://maasranga.tv/wp-content/uploads/2016/02/logo1.gif" group-title="Bangla",Masranga
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/130
 
-#EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1280px-Channel9_bd.svg.png" group-title="Bangla",Channel 9
-http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/104
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="JADOO LIVE",CHANNEL 9 [BD]
+https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Asian Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="Bangla",Asian Tv
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/91
@@ -63,6 +63,7 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/193
 
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/220px-Zee_Bangla_New_Logo.jpg" group-title="Bangla",Zee Bangla
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/192
+
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/220px-Zee_Bangla_New_Logo.jpg" group-title="Bangla",Zee Bangla HD
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/865
 
@@ -100,7 +101,6 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/105
 #EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="https://www.pngjoy.com/pngm/352/6566172_zoom-logo-zoom-event-png-download.png" group-title="Hindi",Zoom
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/159
 
-http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/634
 #EXTINF:-1 tvg-id="" tvg-name="&Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/AndTV_Logo.jpg/160px-AndTV_Logo.jpg" group-title="Hindi",&Tv
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/636
 
@@ -159,8 +159,10 @@ https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/851px-Sony_MAX.svg.png" group-title="Hindi",Sony Max 
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/868
+
 #EXTINF:-1 tvg-id="" tvg-name="Sony MAX HD" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="Hindi",Sony MAX HD
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/147
+
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/Sony_Max_2_%28Logo%29.svg/revision/latest/top-crop/width/220/height/220?cb=20200125181335" group-title="Hindi",Sony Max 2
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/186
 
@@ -241,6 +243,7 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/662
 
 #EXTINF:-1 tvg-id="" tvg-name="9xM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Hindi",9xM
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/721
+
 #EXTINF:-1 tvg-id="" tvg-name="9x Jalwa" tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="Hindi",9x Jalwa
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/722
 
@@ -299,6 +302,9 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/791
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="http://static.iptv-epg.com/au/CGTN.au.png" group-title="News",CGTN
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/726
 
+#EXTINF:-1 tvg-id="" tvg-name="GEO news" tvg-logo="https://banner2.cleanpng.com/20180515/kxe/kisspng-pakistan-geo-news-geo-tv-geo-super-television-5afaba0d47fc47.8869878015263810692949.jpg" group-title="Urdu",GEO news
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/793
+
 #EXTINF:-1 tvg-id="" tvg-name="abc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/1200px-ABC_News_solid_black_logo.svg.png" group-title="News",abc News
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/218
 
@@ -334,3 +340,39 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/753
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Football" tvg-logo="https://s.cafebazaar.ir/1/icons/com.bskyb.fbscore_512x512.png" group-title="Sports",Sky Football
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/194
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/640
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2" tvg-logo="https://static.iptv-epg.com/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/641
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="https://static.iptv-epg.com/qa/beINSports3.qa.png" group-title="Sports",beIN Sports 3
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/642
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4" tvg-logo="https://i.ya-webdesign.com/images/espn-logo-png-2.png" group-title="Sports",beIN Sports 4
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/96
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 11" tvg-logo="https://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" group-title="Sports",beIN Sports 11
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/199
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 12" tvg-logo="https://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" group-title="Sports",beIN Sports 12
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/120
+
+#EXTINF:-1 tvg-id="" tvg-name="Ten Sports" tvg-logo="https://seeklogo.com/images/T/ten-sports-logo-9544E367EB-seeklogo.com.gif" group-title="Sports",Ten Sports
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/786
+
+#EXTINF:-1 tvg-id="" tvg-name="Barca Tv" tvg-logo="https://artwork.espncdn.com/media/9860e67d-b413-413d-a413-6032be024747/16x9/1280x720_20200408205449.jpg" group-title="Sports",Barca Tv
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/787
+
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid " tvg-logo="https://lh3.googleusercontent.com/proxy/k4HszUEKuYBlhsbhMGo9tCwu3WkkgwLr-n7-_gUaY4q9LSvY7-wuhas6uhdoR3OFG7bXwJIoncjGOXPXjarjZ1HtAQnlySO45C7vsRIUV_VycMC73Q" group-title="Sports",Real Madrid 
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/639
+
+#EXTINF:-1 tvg-id="" tvg-name="Euro Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/220px-Eurosport_Logo_2015.svg.png" group-title="Sports",Euro Sports 
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/718
+
+#EXTINF:-1 tvg-id="" tvg-name="Euro Sports 2" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1150.1447433758.png" group-title="Sports",Euro Sports 2
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/866
+
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sports",Olympic Channel
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/719
