@@ -421,6 +421,9 @@ http://103.214.202.218:8081/live/espnhd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Six" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/185
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="ICC 2",Sony Six HD
+http://103.205.133.14/hls/sonysix.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Ptv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",Ptv Sports
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/660
 
