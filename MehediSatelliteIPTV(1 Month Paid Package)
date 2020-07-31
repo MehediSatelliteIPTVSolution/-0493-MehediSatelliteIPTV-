@@ -82,6 +82,9 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/801
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="https://yt3.ggpht.com/a/AGF-l78ObozZI_4e60v5QkvmKJDJQkjhjdYlzwRsRw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Hindi",Star Plus
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/152
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/KVi7HUw.png" group-title="KS",Star Plus
+https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Star Bharat" tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="Hindi",Star Bharat
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/774
 
