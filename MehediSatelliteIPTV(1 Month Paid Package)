@@ -400,9 +400,6 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/218
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg" group-title="Sports",Star Sports 1
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/661
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="AMRBD LIVE",Star Sports 1 HD
-http://103.214.202.218:8081/live/starsports1/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="AMRBD LIVE",Star Sports 2 HD
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 
