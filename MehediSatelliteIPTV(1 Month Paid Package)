@@ -342,16 +342,14 @@ http://103.205.133.14/hls/9xm.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/F4dP6OP.png" group-title="KS",Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Zing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Zing%28TVchannel%29Logo.jpg" group-title="Hindi",Zing
-http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/183
-
 #EXTINF:-1 tvg-id="" tvg-name="Vh1 It" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="Music",Vh1 It
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/165
 
 #EXTINF:-1 tvg-id="" tvg-name="Mastiii" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png" group-title="Hindi",Mastiii
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/654
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="KS",Sangsad TV https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="KS",Sangsad TV 
+https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangla",Independent
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/648
