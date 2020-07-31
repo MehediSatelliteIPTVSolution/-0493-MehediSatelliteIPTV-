@@ -82,6 +82,12 @@ http://103.205.133.14/hls/sony8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTvqb4PqrO8ohIPKojcopDpi7611EFFiyVt5tTfHEY_5zgUeKh&usqp=CAU" group-title="Bangla",Ruposhi Bangla
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/801
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="HINDI ENT.",STAR PLUS
+https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="HINDI ENT.",STAR PLUS HD
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="https://yt3.ggpht.com/a/AGF-l78ObozZI_4e60v5QkvmKJDJQkjhjdYlzwRsRw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Hindi",Star Plus
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/152
 
