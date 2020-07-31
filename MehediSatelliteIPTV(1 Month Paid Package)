@@ -415,6 +415,9 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/150
 #EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="Sports",Sony Ten 2
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/196
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="FTPBD",Sony Ten 2 HD
+http://otv.ftpbd.net/streams/112/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="AMRBD LIVE",ESPN HD
 http://103.214.202.218:8081/live/espnhd/chunks.m3u8
 
