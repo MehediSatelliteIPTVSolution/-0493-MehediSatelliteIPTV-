@@ -336,6 +336,12 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/721
 #EXTINF:-1 tvg-id="" tvg-name="9x Jalwa" tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="Hindi",9x Jalwa
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/722
 
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="ICC 2",9XM
+http://103.205.133.14/hls/9xm.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/F4dP6OP.png" group-title="KS",Zing
+https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Zing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Zing%28TVchannel%29Logo.jpg" group-title="Hindi",Zing
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/183
 
