@@ -217,6 +217,9 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/152
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema" tvg-logo="https://img.favpng.com/13/23/8/zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-png-favpng-E6e7K9SE2pC3X4RVYWfQ7qpeh.jpg" group-title="Hindi",Zee Cinema
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/182
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES",Zee Cinema Me
+http://tv.flametv.design/zeee.m3u8?c=zeecinemame&e=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema HD" tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="Hindi",Zee Cinema HD
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/824
 
