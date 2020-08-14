@@ -244,14 +244,20 @@ http://45.249.187.238:8081/hls/new12.m3u8
 http://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png" tvg-country="IN" tvg-url="" group-title="MUSIC",B4U Music
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/79.ts
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
-
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC",9XM
 http://tvserver.dflix.live:8082/48/index.m3u8?token=c3a20512fc57799f4372cae6c11de7d16236abd0-941b90fd428c12420deb9a976ab54ef1-1597305616-1597294816&remote=103.143.35.227
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qw5saV7.jpg" group-title="MUSIC",9x Tashan
 https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
+
+#EXTINF:-1 group-title="MUSIC",9x Jalwa
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
+
+#EXTINF:-1 group-title="MUSIC",Jalwa
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/82.ts
 
 #EXTINF:-1 group-title="MUSIC",MTV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
@@ -367,6 +373,9 @@ http://216.144.250.174/Zee_Action_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0Kt7S2J.png" group-title="HINDI MOVIES",Zee Action
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
 
+#EXTINF:0 group-title="HINDI MOVIES",Zee ETC
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/73.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 
@@ -412,7 +421,7 @@ https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="NEWS",Ekattor HD
-http://172.20.1.1:8081/live/ekattor-bd/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
 
 #EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="NEWS",CHANNEL 24 HD
 https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
@@ -523,3 +532,6 @@ http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
 
 #EXTINF:0 group-title="Sports", Euro Sports 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
+
+#EXTINF:0 group-title="Sports", Sky Net Sports 2 HD 
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/85.ts
